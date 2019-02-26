@@ -1,0 +1,22 @@
+{
+  "name": "constructors",
+  "version": "1.0.0",
+  "description": "Some work with JS Constructors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitburr/Constructors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitburr/Constructors/issues"
+  },
+  "homepage": "https://github.com/mitburr/Constructors#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  }
+}
