@@ -27,6 +27,7 @@ var userGuess = function () {
             }
             else if (w.incorrectLetters === 10){
                 console.log("You lose!");
+                return;
             }
             userGuess();
         });

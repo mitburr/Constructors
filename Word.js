@@ -20,7 +20,7 @@ let word = function (string) {
                 tempCountCorrect++;
             }
         }
-        if(this.correctLetters != tempCountCorrect){
+        if(this.correctLetters === tempCountCorrect){
             this.incorrectLetters++;
         }
         this.correctLetters = tempCountCorrect;
